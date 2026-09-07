@@ -9,7 +9,7 @@
 
 ## Установка
 
-1. Скачайте архив: [PlayerokAssistant_v1.3.0_CLEAN.zip](PlayerokAssistant_v1.3.0_CLEAN.zip)
+1. Скачайте последнюю сборку: [PlayerokAssistant_v1.3.0_CLEAN.zip](https://github.com/Deceivedhimself/PlayerokAssistant/releases/latest) (вкладка Releases → скачать zip).
 2. Распакуйте архив в любую папку (например, `C:\PlayerokAssistant`).
 3. Запустите `PlayerokAssistant.exe`.
 
