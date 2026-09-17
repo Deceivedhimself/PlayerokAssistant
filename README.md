@@ -1,4 +1,4 @@
-Playerok Assistant v1.3.2
+Playerok Assistant v1.3.0
 =========================
 Инструкция по использованию
 
